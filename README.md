@@ -8,17 +8,29 @@ extra features and a full restyle using **Bootstrap 5**.
 
 ## Screenshots
 
-| Home                               | Topics                                 |
-| ---------------------------------- | -------------------------------------- |
-| ![Home page](screenshots/home.png) | ![Topics page](screenshots/topics.png) |
+### Home
 
-| Topic & entries                      | Log in                               |
-| ------------------------------------ | ------------------------------------ |
-| ![Topic page](screenshots/topic.png) | ![Login page](screenshots/login.png) |
+![Home page](screenshots/home.png)
 
-| New entry                                    | Delete confirmation                                        |
-| -------------------------------------------- | ---------------------------------------------------------- |
-| ![New entry form](screenshots/new_entry.png) | ![Delete topic confirmation](screenshots/delete_topic.png) |
+### Topics
+
+![Topics page](screenshots/topics.png)
+
+### Topic & entries
+
+![Topic page](screenshots/topic.png)
+
+### Log in
+
+![Login page](screenshots/login.png)
+
+### New entry
+
+![New entry form](screenshots/new_entry.png)
+
+### Delete confirmation
+
+![Delete topic confirmation](screenshots/delete_topic.png)
 
 ## Features
 
